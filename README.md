@@ -1,2 +1,2 @@
 # SpeedrunPad-
-A simple 4 key hack pad that can be used for minecraft speedrunning. I also plan to add a slider that can control one of your settings
+A simple 4 key hack pad that can be used for minecraft speedrunning. Also includes a rotary encoder to quickly change on of your settings.
