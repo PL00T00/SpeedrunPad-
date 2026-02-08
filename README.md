@@ -5,7 +5,7 @@ I made this project cause ive recently started to get into the Minecraft speedru
 
 Here's my PCB!
 
-<img width="647" height="444" alt="hackpad_pcb_ss" src="https://github.com/user-attachments/assets/647d4e29-46d4-4e2b-925d-00e2cc75c453" />
+<img width="1135" height="750" alt="SRP_PCB_V2" src="https://github.com/user-attachments/assets/c4c80880-0347-450b-9db9-c39d0f53e097" />
 
 Here's a 3d model of it all!
 
@@ -13,8 +13,7 @@ Here's a 3d model of it all!
 
 And here's my schematic!
 
-<img width="1375" height="701" alt="srp-sch-ss" src="https://github.com/user-attachments/assets/01c7af3e-e631-4ff1-a377-bc2daa6017b6" />
-
+<img width="1059" height="544" alt="SRP_SCH_V3" src="https://github.com/user-attachments/assets/45233fe5-40ce-4d3b-b70f-71c532853237" />
 
 The parts this macropad uses are
 - 4x switches
